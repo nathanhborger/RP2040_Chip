@@ -1,0 +1,11 @@
+(sym_lib_table
+  (lib (name "2022-04-30_02-22-57")(type "Legacy")(uri "C:/Users/natha/Documents/GitHub/Palette/Hardware/KiCAD/Component_Lib/ul_RP2040/KiCAD/2022-04-30_02-22-57/2022-04-30_02-22-57.lib")(options "")(descr ""))
+  (lib (name "Type-C")(type "Legacy")(uri "C:/Users/natha/Documents/GitHub/Palette/Hardware/KiCAD/Component_Lib/Type-C.pretty-master/Type-C.pretty-master/Type-C.lib")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "Legacy")(uri "C:/Users/natha/Documents/GitHub/Palette/Hardware/KiCAD/Component_Lib/random-keyboard-parts.pretty-master (1)/random-keyboard-parts.pretty-master/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "NCP1117ST33T3G")(type "Legacy")(uri "C:/Users/natha/Documents/GitHub/Palette/Hardware/KiCAD/Component_Lib/NCP1117ST33T3G/NCP1117ST33T3G.lib")(options "")(descr ""))
+  (lib (name "SamacSys_Parts")(type "Legacy")(uri "C:/Users/natha/Documents/GitHub/Palette/Hardware/KiCAD/Component_Lib/SamacSys_Parts.lib")(options "")(descr ""))
+  (lib (name "W25Q128JVSIQ")(type "Legacy")(uri "C:/Users/natha/Documents/GitHub/Palette/Hardware/KiCAD/Component_Lib/W25Q128JVSIQ/W25Q128JVSIQ.lib")(options "")(descr ""))
+  (lib (name "PTS810SJK250SMTRLFS")(type "Legacy")(uri "C:/Users/natha/Documents/GitHub/Palette/Hardware/KiCAD/Component_Lib/PTS810SJK250SMTRLFS/PTS810SJK250SMTRLFS.lib")(options "")(descr ""))
+  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "C:/Users/natha/Documents/GitHub/Palette/Hardware/KiCAD/Component_Lib/MX_Alps_Hybrid-master/MX_Alps_Hybrid-master/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name "Palette_Chip")(type "KiCad")(uri "${KIPRJMOD}/Palette_Chip.kicad_sym")(options "")(descr ""))
+)
